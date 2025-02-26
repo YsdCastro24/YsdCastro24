@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Yesid A. Castro R.</h1>
-<h3 align="center">Soy Desarrollador Web con más de 2 años de experiencia, actualmente finalizando mi carrera en Ingeniería de Sistemas. Me especializo en el desarrollo de software y tengo habilidades en diseño gráfico autodidacta. He trabajado en diversos entornos, formando parte de equipos de desarrollo y colaborando en múltiples proyectos web. Radicado en Quibdó, Chocó, Colombia.</h3>
+<h3 align="center">Soy Desarrollador Web con experiencia, actualmente finalizando mi carrera en Ingeniería de Sistemas. Tengo habilidades en diseño gráfico autodidacta. He trabajado en diversos entornos, formando parte de equipos de desarrollo y colaborando en múltiples proyectos web. Radicado en Quibdó, Chocó, Colombia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysdcastro24&label=Profile%20views&color=0e75b6&style=flat" alt="ysdcastro24" /> </p>
 
